@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adsouza\\source\\repos\\MarsRover\\MarsRover.csproj",
+      "projectUniqueName": "C:\\Users\\adsouza\\source\\repos\\Assignment-Rover\\RoverAssignment\\MarsRover.csproj",
       "projectName": "MarsRover",
-      "projectPath": "C:\\Users\\adsouza\\source\\repos\\MarsRover\\MarsRover.csproj",
+      "projectPath": "C:\\Users\\adsouza\\source\\repos\\Assignment-Rover\\RoverAssignment\\MarsRover.csproj",
       "packagesPath": "C:\\Users\\adsouza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adsouza\\source\\repos\\MarsRover\\obj\\",
+      "outputPath": "C:\\Users\\adsouza\\source\\repos\\Assignment-Rover\\RoverAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
